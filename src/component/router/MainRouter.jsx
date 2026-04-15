@@ -13,6 +13,7 @@ import InvestorLicensePage from "../investorLicense/InvestorLicensePage";
 import CompanySetup from "../investorLicense/CompanySetup";
 import VisaServices from "../visa/VisaServices";
 import AirTicketMain from "../airticket/AirTicketMain";
+import About from "../about/About";
 
 
 export const router = createBrowserRouter([
@@ -68,6 +69,10 @@ export const router = createBrowserRouter([
       {
         path: "/airticketmain",
         element: <AirTicketMain />,
+      },
+      {
+        path:"/about",
+        element: <About />
       }
     ],
   },

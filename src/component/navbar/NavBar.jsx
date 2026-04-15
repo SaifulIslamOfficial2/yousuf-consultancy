@@ -54,7 +54,7 @@ function NavBar() {
             </li>
 
             <li><Link to="/investorlicense">Investor License</Link></li>
-            <li><a>About</a></li>
+            <li><Link to="/about">About</Link></li>
             <li><Link to="/contact">Contact</Link></li>
             <li><Link to="/addtocard">
             ADD TO CARD
