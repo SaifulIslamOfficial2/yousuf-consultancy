@@ -67,6 +67,13 @@ const teamMembers = [
     // img: "https://randomuser.me/api/portraits/men/7.jpg",
     desc: "Handles client communication and support.",
   },
+    {
+    name: "ABu AHMAD",
+    role: "Support Executive",
+    exp: "5+ Years",
+    // img: "https://randomuser.me/api/portraits/men/7.jpg",
+    desc: "Handles client communication and support.",
+  },
 ];
 
 const TeamCarousel = () => {
